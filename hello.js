@@ -11,6 +11,6 @@ return '5'
 
 const c =()=>{
 
-console.log("מה נשמע?")
+console.log("❤️שיפוץ קטן בקוד")
 
 }
