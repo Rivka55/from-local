@@ -8,3 +8,7 @@ alert("5")
 return '5'
 
 }
+
+const d =()=>{
+confirm("מתי ירד גשם?🌧️")
+}
